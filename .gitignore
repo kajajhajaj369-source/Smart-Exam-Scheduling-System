@@ -1,0 +1,13 @@
+# Compiled binaries
+allocator
+allocator.exe
+*.o
+*.obj
+
+# Generated output (these are recreated every time the program runs)
+output/report.txt
+output/report.json
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
